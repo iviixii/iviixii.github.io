@@ -1,23 +1,23 @@
-import process from 'node:process';globalThis._importMeta_={url:import.meta.url,env:process.env};import destr from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/destr@2.0.3/node_modules/destr/dist/index.mjs';
-import { getRequestHeader, splitCookiesString, setResponseHeader, setResponseStatus, send, defineEventHandler, handleCacheHeaders, createEvent, fetchWithEvent, isEvent, eventHandler, setHeaders, sendRedirect, proxyRequest, createError, createApp, createRouter as createRouter$1, toNodeListener, lazyEventHandler, getRouterParam, getQuery as getQuery$1, readBody } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/h3@1.13.0/node_modules/h3/dist/index.mjs';
-import { createHooks } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/hookable@5.5.3/node_modules/hookable/dist/index.mjs';
-import { createFetch as createFetch$1, Headers as Headers$1 } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/ofetch@1.4.1/node_modules/ofetch/dist/node.mjs';
-import { createCall, createFetch } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/unenv@1.10.0/node_modules/unenv/runtime/fetch/index.mjs';
-import { klona } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/klona@2.0.6/node_modules/klona/dist/index.mjs';
-import defu, { defuFn } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/defu@6.1.4/node_modules/defu/dist/defu.mjs';
-import { snakeCase } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/scule@1.3.0/node_modules/scule/dist/index.mjs';
-import { createStorage, prefixStorage } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/unstorage@1.13.1_ioredis@5.4.1/node_modules/unstorage/dist/index.mjs';
-import unstorage_47drivers_47fs from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/unstorage@1.13.1_ioredis@5.4.1/node_modules/unstorage/drivers/fs.mjs';
-import { toRouteMatcher, createRouter } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/radix3@1.1.2/node_modules/radix3/dist/index.mjs';
-import { parseURL, withoutBase, joinURL, getQuery, withQuery } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/ufo@1.5.4/node_modules/ufo/dist/index.mjs';
-import { getContext } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/unctx@2.3.1_webpack-sources@3.2.3/node_modules/unctx/dist/index.mjs';
-import { hash } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/ohash@1.1.4/node_modules/ohash/dist/index.mjs';
+import process from 'node:process';globalThis._importMeta_={url:import.meta.url,env:process.env};import destr from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/destr@2.0.3/node_modules/destr/dist/index.mjs';
+import { getRequestHeader, splitCookiesString, setResponseHeader, setResponseStatus, send, defineEventHandler, handleCacheHeaders, createEvent, fetchWithEvent, isEvent, eventHandler, setHeaders, sendRedirect, proxyRequest, createError, createApp, createRouter as createRouter$1, toNodeListener, lazyEventHandler, getRouterParam, getQuery as getQuery$1, readBody } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/h3@1.13.0/node_modules/h3/dist/index.mjs';
+import { createHooks } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/hookable@5.5.3/node_modules/hookable/dist/index.mjs';
+import { createFetch as createFetch$1, Headers as Headers$1 } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/ofetch@1.4.1/node_modules/ofetch/dist/node.mjs';
+import { createCall, createFetch } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/unenv@1.10.0/node_modules/unenv/runtime/fetch/index.mjs';
+import { klona } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/klona@2.0.6/node_modules/klona/dist/index.mjs';
+import defu, { defuFn } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/defu@6.1.4/node_modules/defu/dist/defu.mjs';
+import { snakeCase } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/scule@1.3.0/node_modules/scule/dist/index.mjs';
+import { createStorage, prefixStorage } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/unstorage@1.13.1_ioredis@5.4.1/node_modules/unstorage/dist/index.mjs';
+import unstorage_47drivers_47fs from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/unstorage@1.13.1_ioredis@5.4.1/node_modules/unstorage/drivers/fs.mjs';
+import { toRouteMatcher, createRouter } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/radix3@1.1.2/node_modules/radix3/dist/index.mjs';
+import { parseURL, withoutBase, joinURL, getQuery, withQuery } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/ufo@1.5.4/node_modules/ufo/dist/index.mjs';
+import { getContext } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/unctx@2.3.1_webpack-sources@3.2.3/node_modules/unctx/dist/index.mjs';
+import { hash } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/ohash@1.1.4/node_modules/ohash/dist/index.mjs';
 import { Server } from 'node:http';
 import { mkdirSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { parentPort, threadId } from 'node:worker_threads';
-import { provider, isWindows } from 'file:///home/aron/Repos/iviixii/alog/node_modules/.pnpm/std-env@3.7.0/node_modules/std-env/dist/index.mjs';
+import { provider, isWindows } from 'file:///home/aron/Repos/iviixii/iviixii.github.io/node_modules/.pnpm/std-env@3.7.0/node_modules/std-env/dist/index.mjs';
 
 function hasReqHeader(event, name, includes) {
   const value = getRequestHeader(event, name);
@@ -258,7 +258,7 @@ new Proxy(/* @__PURE__ */ Object.create(null), {
   }
 });
 
-const serverAssets = [{"baseName":"server","dir":"/home/aron/Repos/iviixii/alog/src/server/assets"}];
+const serverAssets = [{"baseName":"server","dir":"/home/aron/Repos/iviixii/iviixii.github.io/src/server/assets"}];
 
 const assets = createStorage();
 
@@ -270,11 +270,11 @@ const storage = createStorage({});
 
 storage.mount('/assets', assets);
 
-storage.mount('root', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"/home/aron/Repos/iviixii/alog","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('src', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"/home/aron/Repos/iviixii/alog/src/server","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('build', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"/home/aron/Repos/iviixii/alog/dist/.nitro","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('cache', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"/home/aron/Repos/iviixii/alog/dist/.nitro/cache","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('data', unstorage_47drivers_47fs({"driver":"fs","base":"/home/aron/Repos/iviixii/alog/.data/kv","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('root', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"/home/aron/Repos/iviixii/iviixii.github.io","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('src', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"/home/aron/Repos/iviixii/iviixii.github.io/src/server","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('build', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"/home/aron/Repos/iviixii/iviixii.github.io/dist/.nitro","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('cache', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"/home/aron/Repos/iviixii/iviixii.github.io/dist/.nitro/cache","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('data', unstorage_47drivers_47fs({"driver":"fs","base":"/home/aron/Repos/iviixii/iviixii.github.io/.data/kv","ignore":["**/node_modules/**","**/.git/**"]}));
 
 function useStorage(base = "") {
   return base ? prefixStorage(storage, base) : storage;
@@ -736,10 +736,10 @@ const _CrftxF = eventHandler(async (event) => {
           }
         });
 
-const _lazy_nxXQcZ = () => Promise.resolve().then(function () { return hello$1; });
+const _lazy_oT4TYz = () => Promise.resolve().then(function () { return hello$1; });
 
 const handlers = [
-  { route: '/v1/hello', handler: _lazy_nxXQcZ, lazy: true, middleware: false, method: undefined },
+  { route: '/v1/hello', handler: _lazy_oT4TYz, lazy: true, middleware: false, method: undefined },
   { route: '', handler: _CrftxF, lazy: false, middleware: true, method: undefined }
 ];
 

@@ -3869,210 +3869,210 @@ const assets$1 = {
   "/.gitkeep": {
     "type": "text/plain; charset=utf-8",
     "etag": "\"0-2jmj7l5rSw0yVb/vlWAYkK/YBwk\"",
-    "mtime": "2025-01-10T02:14:14.739Z",
+    "mtime": "2025-01-10T02:37:55.559Z",
     "size": 0,
     "path": "../public/.gitkeep"
   },
   "/analog.svg": {
     "type": "image/svg+xml",
     "etag": "\"2f59-onYRgu96DadF9OF8r3hf4CPH2vk\"",
-    "mtime": "2025-01-10T02:14:14.739Z",
+    "mtime": "2025-01-10T02:37:55.559Z",
     "size": 12121,
     "path": "../public/analog.svg"
   },
   "/favicon.ico": {
     "type": "image/vnd.microsoft.icon",
     "etag": "\"3b4-Ivako7yq+vsCVODy+kzrieUF6LI\"",
-    "mtime": "2025-01-10T02:14:14.739Z",
+    "mtime": "2025-01-10T02:37:55.559Z",
     "size": 948,
     "path": "../public/favicon.ico"
   },
   "/index.html": {
     "type": "text/html; charset=utf-8",
-    "etag": "\"62f-epSEiLoF3xKcneO3J8YZT7wgH+g\"",
-    "mtime": "2025-01-10T02:14:14.739Z",
+    "etag": "\"62f-fhXC0sUWSLGwyyX2QFzTZHIMWy8\"",
+    "mtime": "2025-01-10T02:37:55.559Z",
     "size": 1583,
     "path": "../public/index.html"
   },
   "/vite.svg": {
     "type": "image/svg+xml",
     "etag": "\"5d9-9/Odcje3kalF1Spc16j7Nl8xM2Y\"",
-    "mtime": "2025-01-10T02:14:14.739Z",
+    "mtime": "2025-01-10T02:37:55.559Z",
     "size": 1497,
     "path": "../public/vite.svg"
   },
   "/assets/2023-01-20-mastering-angular-structural-directives-the-basics-DWljsDVv.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"6e09-VFXG1guzqISFN0KzS9JU3N2OMV8\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 28169,
     "path": "../public/assets/2023-01-20-mastering-angular-structural-directives-the-basics-DWljsDVv.js"
   },
   "/assets/2023-01-25-gitea-docker-D5FlXHKQ.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"9dd-UdJbqVDt/0ELHeMlsrUPCFFRy+4\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 2525,
     "path": "../public/assets/2023-01-25-gitea-docker-D5FlXHKQ.js"
   },
   "/assets/2023-02-06-mastering-angular-structural-directives-its-all-about-the-context-Bm6VgU_y.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"995a-OjIS5l2DBTeK8XO5WVFh2+IoKco\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 39258,
     "path": "../public/assets/2023-02-06-mastering-angular-structural-directives-its-all-about-the-context-Bm6VgU_y.js"
   },
   "/assets/2023-02-12-mastering-angular-structural-directives-micro-syntax-demystified-DGT6m1WI.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"98f6-ouv0a4oJA/rrrjdMErOr2voLFho\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 39158,
     "path": "../public/assets/2023-02-12-mastering-angular-structural-directives-micro-syntax-demystified-DGT6m1WI.js"
   },
   "/assets/2023-02-13-mastering-angular-structural-directives-micro-syntax-in-the-wild-B1mQ0TYP.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"6667-JSQMbkp63jYS7proHjElAnbTLPI\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 26215,
     "path": "../public/assets/2023-02-13-mastering-angular-structural-directives-micro-syntax-in-the-wild-B1mQ0TYP.js"
   },
   "/assets/2023-02-15-mirror-C2aTfSQn.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"17e6-QB4+e+ZCu1AHZJ/ZMxgePwCUpcM\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 6118,
     "path": "../public/assets/2023-02-15-mirror-C2aTfSQn.js"
   },
   "/assets/2023-02-17-dark-mode-with-analog-tailwind-D4NCO6em.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"d9e8-4YUv8E75W8SpNFlCBvYx36Cje7Q\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 55784,
     "path": "../public/assets/2023-02-17-dark-mode-with-analog-tailwind-D4NCO6em.js"
   },
   "/assets/2023-04-28-spartan-type-safe-angular-full-stack-development-powered-by-analog-B8qFz2MG.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"fa46-zteWAekQIjv0arWMPDpLOczt8LA\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 64070,
     "path": "../public/assets/2023-04-28-spartan-type-safe-angular-full-stack-development-powered-by-analog-B8qFz2MG.js"
   },
   "/assets/2023-06-12-future-friend-LNfohaNP.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"5e6-IkNcJxlPg+HLI6kBsM2NmmDKiAw\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 1510,
     "path": "../public/assets/2023-06-12-future-friend-LNfohaNP.js"
   },
   "/assets/2023-08-24-getting-started-with-spartanui-shadcn-like-ui-components-for-angular-CN2Rzuzo.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"9e71-1+hioJ24WXpvavWIxgeVFDMw1C4\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 40561,
     "path": "../public/assets/2023-08-24-getting-started-with-spartanui-shadcn-like-ui-components-for-angular-CN2Rzuzo.js"
   },
   "/assets/2024-01-15-the-baseline-CVDVNyQh.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"51d-wXjH9smjVfTSgHT7Fj21b5+tw4o\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 1309,
     "path": "../public/assets/2024-01-15-the-baseline-CVDVNyQh.js"
   },
   "/assets/2024-04-10-inputs-DmICvLYD.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"a68-HK8dJnsixvPrkvF0pjrSUT3AK4Y\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 2664,
     "path": "../public/assets/2024-04-10-inputs-DmICvLYD.js"
   },
-  "/assets/2024-06-05-programmer-death-W7w34BhK.js": {
+  "/assets/2024-06-05-programmer-death-CghGqu7C.js": {
     "type": "text/javascript; charset=utf-8",
-    "etag": "\"cc0-4cp6Kmm4SzRkwrXyF7FPB9WK+HI\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
-    "size": 3264,
-    "path": "../public/assets/2024-06-05-programmer-death-W7w34BhK.js"
+    "etag": "\"d12-RFQRFLb1VUT89nFDcem/FZ3/tbU\"",
+    "mtime": "2025-01-10T02:37:55.556Z",
+    "size": 3346,
+    "path": "../public/assets/2024-06-05-programmer-death-CghGqu7C.js"
   },
   "/assets/2024-10-22-simple-cicd-DrZmRjLZ.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"2fd6-7l94PtMEdjgLTv0npcmvlsRBU3g\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 12246,
     "path": "../public/assets/2024-10-22-simple-cicd-DrZmRjLZ.js"
   },
-  "/assets/_slug_.page-DQf9CNh9.js": {
+  "/assets/_slug_.page-CyMcp837.js": {
     "type": "text/javascript; charset=utf-8",
-    "etag": "\"5f5-Q0Fq9VFKJXMORPg81hJk7jLNe9E\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "etag": "\"5f5-9t0i7lLq/lJ4hg8kQK4zi/Ilz78\"",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 1525,
-    "path": "../public/assets/_slug_.page-DQf9CNh9.js"
+    "path": "../public/assets/_slug_.page-CyMcp837.js"
   },
-  "/assets/blog.page-B-3-mg32.js": {
+  "/assets/blog.page-_c9eKmrG.js": {
     "type": "text/javascript; charset=utf-8",
-    "etag": "\"13e-2Sx/2u7hB5KM+EFLq8x+mhsH2+A\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "etag": "\"13e-OQpPc/Ag0jlh4eCMdUpIff5OuLA\"",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 318,
-    "path": "../public/assets/blog.page-B-3-mg32.js"
+    "path": "../public/assets/blog.page-_c9eKmrG.js"
   },
   "/assets/favicon-CfaKENfs.ico": {
     "type": "image/vnd.microsoft.icon",
     "etag": "\"4183e-qSZW/MJUZJgc+g9yjoFP+DuU1lI\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 268350,
     "path": "../public/assets/favicon-CfaKENfs.ico"
   },
   "/assets/index-BFB6YhDI.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"a742-vjUCueWbat+qfmZy4vfRwDba3Qw\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 42818,
     "path": "../public/assets/index-BFB6YhDI.css"
   },
-  "/assets/index-fax6OGEo.js": {
+  "/assets/index-DVFtmrdB.js": {
     "type": "text/javascript; charset=utf-8",
-    "etag": "\"a2214-iNwcrJ6UgIRFrQ9h9PkokilsuJQ\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "etag": "\"a2214-5hvLvnvxFxH8JkXKXQh300tUpxM\"",
+    "mtime": "2025-01-10T02:37:55.556Z",
     "size": 664084,
-    "path": "../public/assets/index-fax6OGEo.js"
+    "path": "../public/assets/index-DVFtmrdB.js"
   },
-  "/assets/index.page-BtRVwS6m.js": {
+  "/assets/index.page-B6swBaxd.js": {
     "type": "text/javascript; charset=utf-8",
-    "etag": "\"51e-9hxZqED6R8KTmvelkcfZorR8JVU\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
-    "size": 1310,
-    "path": "../public/assets/index.page-BtRVwS6m.js"
-  },
-  "/assets/index.page-CKZtmA7g.js": {
-    "type": "text/javascript; charset=utf-8",
-    "etag": "\"d08-zNOYvjtyd7ooDwmvI5l13OE5wQ8\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "etag": "\"d08-uUCi2Mx0X/GxoVe1BN1szitoX3s\"",
+    "mtime": "2025-01-10T02:37:55.559Z",
     "size": 3336,
-    "path": "../public/assets/index.page-CKZtmA7g.js"
+    "path": "../public/assets/index.page-B6swBaxd.js"
   },
-  "/assets/index.page-DEZpJ-Nu.js": {
+  "/assets/index.page-CP4flrEC.js": {
     "type": "text/javascript; charset=utf-8",
-    "etag": "\"8ec-pX3UwYkQGxp2ESoSWc1OxceOYes\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "etag": "\"51e-TVJ2Yny5iEWHALRNLJ1+WcMNJDw\"",
+    "mtime": "2025-01-10T02:37:55.556Z",
+    "size": 1310,
+    "path": "../public/assets/index.page-CP4flrEC.js"
+  },
+  "/assets/index.page-CY6UfGOh.js": {
+    "type": "text/javascript; charset=utf-8",
+    "etag": "\"8ec-twpbAsHENRCVGBPJajQ7QxG/IpM\"",
+    "mtime": "2025-01-10T02:37:55.559Z",
     "size": 2284,
-    "path": "../public/assets/index.page-DEZpJ-Nu.js"
+    "path": "../public/assets/index.page-CY6UfGOh.js"
   },
-  "/assets/page-header.component-CITkVSUq.js": {
+  "/assets/page-header.component-zwXszao3.js": {
     "type": "text/javascript; charset=utf-8",
-    "etag": "\"271-QOhlhaaWuVXmlt1/Ccm0vmu37mM\"",
-    "mtime": "2025-01-10T02:14:14.736Z",
+    "etag": "\"271-CSIoyx+wdmRZB5w0jE2iS5arnWg\"",
+    "mtime": "2025-01-10T02:37:55.559Z",
     "size": 625,
-    "path": "../public/assets/page-header.component-CITkVSUq.js"
+    "path": "../public/assets/page-header.component-zwXszao3.js"
   },
   "/blog/index.html": {
     "type": "text/html; charset=utf-8",
-    "etag": "\"8d44-1VKQnN7g7U91k510vUyCML9y3W8\"",
-    "mtime": "2025-01-10T02:14:15.649Z",
+    "etag": "\"8d44-xe8IUSP78vCY7izMMC8OrkMG61I\"",
+    "mtime": "2025-01-10T02:37:56.579Z",
     "size": 36164,
     "path": "../public/blog/index.html"
   },
   "/blog/2022-12-27-my-first-post/index.html": {
     "type": "text/html; charset=utf-8",
-    "etag": "\"15ed-FeAKYmJ6VXHH3Zokwa/S6bUAnUw\"",
-    "mtime": "2025-01-10T02:14:15.676Z",
+    "etag": "\"15ed-P70dDjhmidMcHL8V1Hfc5oR40C0\"",
+    "mtime": "2025-01-10T02:37:56.606Z",
     "size": 5613,
     "path": "../public/blog/2022-12-27-my-first-post/index.html"
   }
@@ -5039,111 +5039,111 @@ async function dispose(driver) {
 const _assets = {
   ["public:analog.svg"]: {
     import: () => import('../raw/analog.mjs').then(r => r.default || r),
-    meta: {"type":"image/svg+xml","etag":"\"2f59-onYRgu96DadF9OF8r3hf4CPH2vk\"","mtime":"2025-01-10T02:14:03.262Z"}
+    meta: {"type":"image/svg+xml","etag":"\"2f59-onYRgu96DadF9OF8r3hf4CPH2vk\"","mtime":"2025-01-10T02:37:43.883Z"}
   },
   ["public:favicon.ico"]: {
     import: () => import('../raw/favicon.mjs').then(r => r.default || r),
-    meta: {"type":"image/vnd.microsoft.icon","etag":"\"3b4-Ivako7yq+vsCVODy+kzrieUF6LI\"","mtime":"2025-01-10T02:14:03.262Z"}
+    meta: {"type":"image/vnd.microsoft.icon","etag":"\"3b4-Ivako7yq+vsCVODy+kzrieUF6LI\"","mtime":"2025-01-10T02:37:43.883Z"}
   },
   ["public:index.html"]: {
     import: () => import('../raw/index.mjs').then(r => r.default || r),
-    meta: {"type":"text/html; charset=utf-8","etag":"\"62f-epSEiLoF3xKcneO3J8YZT7wgH+g\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/html; charset=utf-8","etag":"\"62f-fhXC0sUWSLGwyyX2QFzTZHIMWy8\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:vite.svg"]: {
     import: () => import('../raw/vite.mjs').then(r => r.default || r),
-    meta: {"type":"image/svg+xml","etag":"\"5d9-9/Odcje3kalF1Spc16j7Nl8xM2Y\"","mtime":"2025-01-10T02:14:03.262Z"}
+    meta: {"type":"image/svg+xml","etag":"\"5d9-9/Odcje3kalF1Spc16j7Nl8xM2Y\"","mtime":"2025-01-10T02:37:43.883Z"}
   },
   ["public:assets:2023-01-20-mastering-angular-structural-directives-the-basics-DWljsDVv.js"]: {
     import: () => import('../raw/2023-01-20-mastering-angular-structural-directives-the-basics-DWljsDVv.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"6e09-VFXG1guzqISFN0KzS9JU3N2OMV8\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"6e09-VFXG1guzqISFN0KzS9JU3N2OMV8\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2023-01-25-gitea-docker-D5FlXHKQ.js"]: {
     import: () => import('../raw/2023-01-25-gitea-docker-D5FlXHKQ.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"9dd-UdJbqVDt/0ELHeMlsrUPCFFRy+4\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"9dd-UdJbqVDt/0ELHeMlsrUPCFFRy+4\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2023-02-06-mastering-angular-structural-directives-its-all-about-the-context-Bm6VgU_y.js"]: {
     import: () => import('../raw/2023-02-06-mastering-angular-structural-directives-its-all-about-the-context-Bm6VgU_y.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"995a-OjIS5l2DBTeK8XO5WVFh2+IoKco\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"995a-OjIS5l2DBTeK8XO5WVFh2+IoKco\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2023-02-12-mastering-angular-structural-directives-micro-syntax-demystified-DGT6m1WI.js"]: {
     import: () => import('../raw/2023-02-12-mastering-angular-structural-directives-micro-syntax-demystified-DGT6m1WI.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"98f6-ouv0a4oJA/rrrjdMErOr2voLFho\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"98f6-ouv0a4oJA/rrrjdMErOr2voLFho\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2023-02-13-mastering-angular-structural-directives-micro-syntax-in-the-wild-B1mQ0TYP.js"]: {
     import: () => import('../raw/2023-02-13-mastering-angular-structural-directives-micro-syntax-in-the-wild-B1mQ0TYP.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"6667-JSQMbkp63jYS7proHjElAnbTLPI\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"6667-JSQMbkp63jYS7proHjElAnbTLPI\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2023-02-15-mirror-C2aTfSQn.js"]: {
     import: () => import('../raw/2023-02-15-mirror-C2aTfSQn.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"17e6-QB4+e+ZCu1AHZJ/ZMxgePwCUpcM\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"17e6-QB4+e+ZCu1AHZJ/ZMxgePwCUpcM\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2023-02-17-dark-mode-with-analog-tailwind-D4NCO6em.js"]: {
     import: () => import('../raw/2023-02-17-dark-mode-with-analog-tailwind-D4NCO6em.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"d9e8-4YUv8E75W8SpNFlCBvYx36Cje7Q\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"d9e8-4YUv8E75W8SpNFlCBvYx36Cje7Q\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2023-04-28-spartan-type-safe-angular-full-stack-development-powered-by-analog-B8qFz2MG.js"]: {
     import: () => import('../raw/2023-04-28-spartan-type-safe-angular-full-stack-development-powered-by-analog-B8qFz2MG.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"fa46-zteWAekQIjv0arWMPDpLOczt8LA\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"fa46-zteWAekQIjv0arWMPDpLOczt8LA\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2023-06-12-future-friend-LNfohaNP.js"]: {
     import: () => import('../raw/2023-06-12-future-friend-LNfohaNP.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"5e6-IkNcJxlPg+HLI6kBsM2NmmDKiAw\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"5e6-IkNcJxlPg+HLI6kBsM2NmmDKiAw\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2023-08-24-getting-started-with-spartanui-shadcn-like-ui-components-for-angular-CN2Rzuzo.js"]: {
     import: () => import('../raw/2023-08-24-getting-started-with-spartanui-shadcn-like-ui-components-for-angular-CN2Rzuzo.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"9e71-1+hioJ24WXpvavWIxgeVFDMw1C4\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"9e71-1+hioJ24WXpvavWIxgeVFDMw1C4\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2024-01-15-the-baseline-CVDVNyQh.js"]: {
     import: () => import('../raw/2024-01-15-the-baseline-CVDVNyQh.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"51d-wXjH9smjVfTSgHT7Fj21b5+tw4o\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"51d-wXjH9smjVfTSgHT7Fj21b5+tw4o\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2024-04-10-inputs-DmICvLYD.js"]: {
     import: () => import('../raw/2024-04-10-inputs-DmICvLYD.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"a68-HK8dJnsixvPrkvF0pjrSUT3AK4Y\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"a68-HK8dJnsixvPrkvF0pjrSUT3AK4Y\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
-  ["public:assets:2024-06-05-programmer-death-W7w34BhK.js"]: {
-    import: () => import('../raw/2024-06-05-programmer-death-W7w34BhK.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"cc0-4cp6Kmm4SzRkwrXyF7FPB9WK+HI\"","mtime":"2025-01-10T02:14:03.689Z"}
+  ["public:assets:2024-06-05-programmer-death-CghGqu7C.js"]: {
+    import: () => import('../raw/2024-06-05-programmer-death-CghGqu7C.mjs').then(r => r.default || r),
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"d12-RFQRFLb1VUT89nFDcem/FZ3/tbU\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:2024-10-22-simple-cicd-DrZmRjLZ.js"]: {
     import: () => import('../raw/2024-10-22-simple-cicd-DrZmRjLZ.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"2fd6-7l94PtMEdjgLTv0npcmvlsRBU3g\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"2fd6-7l94PtMEdjgLTv0npcmvlsRBU3g\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
-  ["public:assets:_slug_.page-DQf9CNh9.js"]: {
-    import: () => import('../raw/_slug_.page-DQf9CNh9.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"5f5-Q0Fq9VFKJXMORPg81hJk7jLNe9E\"","mtime":"2025-01-10T02:14:03.689Z"}
+  ["public:assets:_slug_.page-CyMcp837.js"]: {
+    import: () => import('../raw/_slug_.page-CyMcp837.mjs').then(r => r.default || r),
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"5f5-9t0i7lLq/lJ4hg8kQK4zi/Ilz78\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
-  ["public:assets:blog.page-B-3-mg32.js"]: {
-    import: () => import('../raw/blog.page-B-3-mg32.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"13e-2Sx/2u7hB5KM+EFLq8x+mhsH2+A\"","mtime":"2025-01-10T02:14:03.689Z"}
+  ["public:assets:blog.page-_c9eKmrG.js"]: {
+    import: () => import('../raw/blog.page-_c9eKmrG.mjs').then(r => r.default || r),
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"13e-OQpPc/Ag0jlh4eCMdUpIff5OuLA\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:favicon-CfaKENfs.ico"]: {
     import: () => import('../raw/favicon-CfaKENfs.mjs').then(r => r.default || r),
-    meta: {"type":"image/vnd.microsoft.icon","etag":"\"4183e-qSZW/MJUZJgc+g9yjoFP+DuU1lI\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"image/vnd.microsoft.icon","etag":"\"4183e-qSZW/MJUZJgc+g9yjoFP+DuU1lI\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
   ["public:assets:index-BFB6YhDI.css"]: {
     import: () => import('../raw/index-BFB6YhDI.mjs').then(r => r.default || r),
-    meta: {"type":"text/css; charset=utf-8","etag":"\"a742-vjUCueWbat+qfmZy4vfRwDba3Qw\"","mtime":"2025-01-10T02:14:03.689Z"}
+    meta: {"type":"text/css; charset=utf-8","etag":"\"a742-vjUCueWbat+qfmZy4vfRwDba3Qw\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
-  ["public:assets:index-fax6OGEo.js"]: {
-    import: () => import('../raw/index-fax6OGEo.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"a2214-iNwcrJ6UgIRFrQ9h9PkokilsuJQ\"","mtime":"2025-01-10T02:14:03.689Z"}
+  ["public:assets:index-DVFtmrdB.js"]: {
+    import: () => import('../raw/index-DVFtmrdB.mjs').then(r => r.default || r),
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"a2214-5hvLvnvxFxH8JkXKXQh300tUpxM\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
-  ["public:assets:index.page-BtRVwS6m.js"]: {
-    import: () => import('../raw/index.page-BtRVwS6m.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"51e-9hxZqED6R8KTmvelkcfZorR8JVU\"","mtime":"2025-01-10T02:14:03.689Z"}
+  ["public:assets:index.page-B6swBaxd.js"]: {
+    import: () => import('../raw/index.page-B6swBaxd.mjs').then(r => r.default || r),
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"d08-uUCi2Mx0X/GxoVe1BN1szitoX3s\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
-  ["public:assets:index.page-CKZtmA7g.js"]: {
-    import: () => import('../raw/index.page-CKZtmA7g.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"d08-zNOYvjtyd7ooDwmvI5l13OE5wQ8\"","mtime":"2025-01-10T02:14:03.689Z"}
+  ["public:assets:index.page-CP4flrEC.js"]: {
+    import: () => import('../raw/index.page-CP4flrEC.mjs').then(r => r.default || r),
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"51e-TVJ2Yny5iEWHALRNLJ1+WcMNJDw\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
-  ["public:assets:index.page-DEZpJ-Nu.js"]: {
-    import: () => import('../raw/index.page-DEZpJ-Nu.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"8ec-pX3UwYkQGxp2ESoSWc1OxceOYes\"","mtime":"2025-01-10T02:14:03.689Z"}
+  ["public:assets:index.page-CY6UfGOh.js"]: {
+    import: () => import('../raw/index.page-CY6UfGOh.mjs').then(r => r.default || r),
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"8ec-twpbAsHENRCVGBPJajQ7QxG/IpM\"","mtime":"2025-01-10T02:37:44.299Z"}
   },
-  ["public:assets:page-header.component-CITkVSUq.js"]: {
-    import: () => import('../raw/page-header.component-CITkVSUq.mjs').then(r => r.default || r),
-    meta: {"type":"text/javascript; charset=utf-8","etag":"\"271-QOhlhaaWuVXmlt1/Ccm0vmu37mM\"","mtime":"2025-01-10T02:14:03.689Z"}
+  ["public:assets:page-header.component-zwXszao3.js"]: {
+    import: () => import('../raw/page-header.component-zwXszao3.mjs').then(r => r.default || r),
+    meta: {"type":"text/javascript; charset=utf-8","etag":"\"271-CSIoyx+wdmRZB5w0jE2iS5arnWg\"","mtime":"2025-01-10T02:37:44.299Z"}
   }
 };
 

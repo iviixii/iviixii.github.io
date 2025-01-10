@@ -42,15 +42,15 @@ Here is my schedule on the daily to produce more and spend less time in front of
 
 ## I am joking ... lol
 Lets be real most of us don't have time or the spunk to keep up a crazy 6am workout routine.
-I like my wiskeys at night, and stay up past midnight. Instead the tips that I will share below should act more like guidelines. Adjust accordingly to your schedule where ever you are in life.
+I like my whiskeys at night, and stay up well past a reasonable hour. Instead the tips that I will share below should act more as suggested guidelines. Adjust accordingly to your schedule where ever you are in life.
 
-Tips
-    -Get up every 30 minutes, or change your posture
-    -Kneel on the floor, use a saddle chair, sit in lotus, etc.
-    -Dont fall into the trap of buying ergonomic tech gear, actions work better
-    -Every 3-4 hours, do a workout where you are 15 minutes removed from the screen
-    -Walk more (aim for at least once per day if not a couple walks outside)
-    -Lift more weights, hang from a tree or pullup bar if you have one
-    -Drink only water and tea while working
-    -Coffee in morning, none after 11am
-    -6 days work per week out doesn't matter where, 1 day off of active rest
+### Tips
+- Get up every 30 minutes, or change your posture
+- Kneel on the floor, use a saddle chair, sit in lotus, etc.
+- Dont fall into the trap of buying ergonomic tech gear, actions work better
+- Every 3-4 hours, do a workout where you are 15 minutes removed from the screen
+- Walk more (aim for at least once per day if not a couple walks outside)
+- Lift more weights, hang from a tree or pullup bar if you have one
+- Drink only water and tea while working
+- Coffee in morning, none after 11am
+- 6 days work per week out doesn't matter where, 1 day off of active rest

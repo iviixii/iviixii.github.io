@@ -58679,7 +58679,7 @@ const getContentFiles = () => {
     "/src/content/2023-08-24-getting-started-with-spartanui-shadcn-like-ui-components-for-angular.md": () => import("./assets/2023-08-24-getting-started-with-spartanui-shadcn-like-ui-components-for-angular-DiEatCo8.js").then((m) => m.default),
     "/src/content/2024-01-15-the-baseline.md": () => import("./assets/2024-01-15-the-baseline-3uzsyESQ.js").then((m) => m.default),
     "/src/content/2024-04-10-inputs.md": () => import("./assets/2024-04-10-inputs-Cy0PAJLl.js").then((m) => m.default),
-    "/src/content/2024-06-05-programmer-death.md": () => import("./assets/2024-06-05-programmer-death-BEkE5dsP.js").then((m) => m.default),
+    "/src/content/2024-06-05-programmer-death.md": () => import("./assets/2024-06-05-programmer-death-DyQZI6J3.js").then((m) => m.default),
     "/src/content/2024-10-22-simple-cicd.md": () => import("./assets/2024-10-22-simple-cicd-Dw9Tpr1_.js").then((m) => m.default)
   };
   return ANALOG_CONTENT_ROUTE_FILES2;
@@ -59638,7 +59638,7 @@ let ANALOG_CONTENT_ROUTE_FILES = {
   "/src/content/2023-08-24-getting-started-with-spartanui-shadcn-like-ui-components-for-angular.md": () => import("./assets/2023-08-24-getting-started-with-spartanui-shadcn-like-ui-components-for-angular-DiEatCo8.js").then((m) => m.default),
   "/src/content/2024-01-15-the-baseline.md": () => import("./assets/2024-01-15-the-baseline-3uzsyESQ.js").then((m) => m.default),
   "/src/content/2024-04-10-inputs.md": () => import("./assets/2024-04-10-inputs-Cy0PAJLl.js").then((m) => m.default),
-  "/src/content/2024-06-05-programmer-death.md": () => import("./assets/2024-06-05-programmer-death-BEkE5dsP.js").then((m) => m.default),
+  "/src/content/2024-06-05-programmer-death.md": () => import("./assets/2024-06-05-programmer-death-DyQZI6J3.js").then((m) => m.default),
   "/src/content/2024-10-22-simple-cicd.md": () => import("./assets/2024-10-22-simple-cicd-Dw9Tpr1_.js").then((m) => m.default)
 };
 function createRoutes(files) {

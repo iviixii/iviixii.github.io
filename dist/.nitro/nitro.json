@@ -1,5 +1,5 @@
 {
-  "date": "2024-11-26T04:09:36.422Z",
+  "date": "2025-01-10T02:08:53.594Z",
   "preset": "nitro-dev",
   "framework": {
     "name": "nitro",
@@ -9,9 +9,9 @@
     "nitro": "2.10.3"
   },
   "dev": {
-    "pid": 200396,
+    "pid": 2657290,
     "workerAddress": {
-      "socketPath": "/tmp/nitro/worker-200396-2.sock"
+      "socketPath": "/tmp/nitro/worker-2657290-1.sock"
     }
   }
 }

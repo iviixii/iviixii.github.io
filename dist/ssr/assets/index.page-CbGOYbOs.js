@@ -62,7 +62,7 @@ const _HomeComponent = class _HomeComponent {
 _HomeComponent.ɵfac = function HomeComponent_Factory(__ngFactoryType__) {
   return new (__ngFactoryType__ || _HomeComponent)();
 };
-_HomeComponent.ɵcmp = /* @__PURE__ */ __defineComponent({ type: _HomeComponent, selectors: [["home"]], standalone: true, features: [__StandaloneFeature], decls: 5, vars: 2, consts: [["title", "Hi, I'm Aaron", "intro", "Fullstack Developer // Angular & Java work // Analogjs & AI for fun // Life tangents for sanity"], [1, "mt-12", "text-2xl", "tracking-tight", "sm:text-3xl"], [1, "mt-6", "w-full", "grid", "grid-cols-1", "sm:grid-cols-2", "md:grid-cols-3", "gap-4"], [3, "article", 4, "ngFor", "ngForOf"], [3, "article"]], template: function HomeComponent_Template(rf, ctx) {
+_HomeComponent.ɵcmp = /* @__PURE__ */ __defineComponent({ type: _HomeComponent, selectors: [["home"]], standalone: true, features: [__StandaloneFeature], decls: 5, vars: 2, consts: [["title", "Hi, I'm Aaron", "intro", "Fullstack Developer // Angular & Java work // Minimal software for fun // Life tangents for sanity"], [1, "mt-12", "text-2xl", "tracking-tight", "sm:text-3xl"], [1, "mt-6", "w-full", "grid", "grid-cols-1", "sm:grid-cols-2", "md:grid-cols-3", "gap-4"], [3, "article", 4, "ngFor", "ngForOf"], [3, "article"]], template: function HomeComponent_Template(rf, ctx) {
   if (rf & 1) {
     __element(0, "app-page-header", 0);
     __elementStart(1, "h2", 1);

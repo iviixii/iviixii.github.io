@@ -59316,7 +59316,7 @@ function toMarkdownModule(markdownFileFactory) {
 const ENDPOINT_EXTENSION = ".server.ts";
 let ANALOG_ROUTE_FILES = {
   "/src/app/pages/blog.page.ts": () => import('./blog.page-8GEgKYRt.mjs'),
-  "/src/app/pages/index.page.ts": () => import('./index.page-CTVoVWQA.mjs'),
+  "/src/app/pages/index.page.ts": () => import('./index.page-CbGOYbOs.mjs'),
   "/src/app/pages/blog/[slug].page.ts": () => import('./_slug_.page-DYUHbh-k.mjs'),
   "/src/app/pages/blog/index.page.ts": () => import('./index.page-BPY1W9F1.mjs'),
   "/src/app/pages/contact/index.page.ts": () => import('./index.page-gf7HpFAI.mjs')

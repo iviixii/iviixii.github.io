@@ -15,7 +15,7 @@ import {ContentMetadata} from "../../lib/content-metadata/content-metadata";
   template: `
       <app-page-header
               title="Hi, I'm Aaron"
-              intro="Fullstack Developer // Angular & Java work // Analogjs & AI for fun // Life tangents for sanity"
+              intro="Fullstack Developer // Angular & Java work // Minimal software for fun // Life tangents for sanity"
      />
 
       <h2 class="mt-12 text-2xl tracking-tight sm:text-3xl">

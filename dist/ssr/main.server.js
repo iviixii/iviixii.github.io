@@ -59620,7 +59620,7 @@ function toMarkdownModule(markdownFileFactory) {
 const ENDPOINT_EXTENSION = ".server.ts";
 let ANALOG_ROUTE_FILES = {
   "/src/app/pages/blog.page.ts": () => import("./assets/blog.page-8GEgKYRt.js"),
-  "/src/app/pages/index.page.ts": () => import("./assets/index.page-CTVoVWQA.js"),
+  "/src/app/pages/index.page.ts": () => import("./assets/index.page-CbGOYbOs.js"),
   "/src/app/pages/blog/[slug].page.ts": () => import("./assets/_slug_.page-DYUHbh-k.js"),
   "/src/app/pages/blog/index.page.ts": () => import("./assets/index.page-BPY1W9F1.js"),
   "/src/app/pages/contact/index.page.ts": () => import("./assets/index.page-gf7HpFAI.js")
